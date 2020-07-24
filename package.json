@@ -1,7 +1,7 @@
 {
-  "name": "county-rp-fake-api",
+  "name": "county-rp-admin-panel-fake-api",
   "version": "1.0.0",
-  "description": "fake API for county-rp",
+  "description": "Fake API for admin panel of county-rp",
   "main": "index.js",
   "scripts": {
     "start": "json-server -p 8000 --watch db.json",

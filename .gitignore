@@ -1,1 +1,4 @@
 /node_modules
+/randomGroups.js
+/randomPlayers.js
+/db-backup.json

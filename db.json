@@ -3,21 +3,63 @@
     {
       "id": "group1",
       "name": "groupName1Edited",
-      "color": "#893234"
-    }, 
+      "color": "893234"
+    },
     {
       "id": "test2",
       "name": "testName2Edited",
-      "color": "#243223"
+      "color": "243223"
     }
   ],
-
   "Player": [
     {
       "id": 1,
-      "name": "playerName1",
+      "login": "playerName1",
       "password": "playerPassword11",
-      "groupId": "group1"
+      "groupId": "group2"
+    },
+    {
+      "login": "Inna970",
+      "password": "HelloKitty",
+      "groupId": "group1",
+      "id": 2
+    }
+  ],
+  "Faction": [
+    {
+      "id": "kek",
+      "name": "Shrek",
+      "color": "7FFF00",
+      "ranks": [],
+      "type": 1
+    },
+    {
+      "id": "helloThere",
+      "name": "General_Kenobi",
+      "color": "##ffa500",
+      "ranks": [
+        ""
+      ],
+      "type": "1"
+    }
+  ],
+  "AdminLevel": [
+    {
+      "id": "suser",
+      "name": "super user",
+      "ban": true
+    }
+  ],
+  "Person": [
+    {
+      "id": 2701,
+      "name": "Puppet Master",
+      "playerId": 2701,
+      "adminLevelId": "suser",
+      "factionId": "kek",
+      "groupId": "test2",
+      "leader": false,
+      "rank": 0
     }
   ]
 }
