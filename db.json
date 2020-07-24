@@ -1,0 +1,23 @@
+{
+  "Group": [
+    {
+      "id": "group1",
+      "name": "groupName1Edited",
+      "color": "#893234"
+    }, 
+    {
+      "id": "test2",
+      "name": "testName2Edited",
+      "color": "#243223"
+    }
+  ],
+
+  "Player": [
+    {
+      "id": 1,
+      "name": "playerName1",
+      "password": "playerPassword11",
+      "groupId": "group1"
+    }
+  ]
+}

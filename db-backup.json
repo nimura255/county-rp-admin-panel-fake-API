@@ -1,0 +1,62 @@
+	[
+		{
+			"id": "7",
+			"login": "player7",
+			"password": "playerPass7",
+			"groupId": "test2"
+		},
+		{
+			"id": "6",
+			"login": "player6",
+			"password": "playerPass6",
+			"groupId": "test2"
+		},
+		{
+			"id": "8",
+			"login": "player8",
+			"password": "playerPass8",
+			"groupId": "test2"
+		},
+		{
+			"id": "4",
+			"login": "player4",
+			"password": "playerPass4",
+			"groupId": "test2"
+		},
+		{
+			"id": "8",
+			"login": "player8",
+			"password": "playerPass8",
+			"groupId": "test2"
+		},
+		{
+			"id": "4",
+			"login": "player4",
+			"password": "playerPass4",
+			"groupId": "test2"
+		},
+		{
+			"id": "5",
+			"login": "player5",
+			"password": "playerPass5",
+			"groupId": "test2"
+		},
+		{
+			"id": "8",
+			"login": "player8",
+			"password": "playerPass8",
+			"groupId": "test2"
+		},
+		{
+			"id": "4",
+			"login": "player4",
+			"password": "playerPass4",
+			"groupId": "test2"
+		},
+		{
+			"id": "4",
+			"login": "player4",
+			"password": "playerPass4",
+			"groupId": "test2"
+		}
+	]

@@ -1,0 +1,15 @@
+{
+  "name": "county-rp-fake-api",
+  "version": "1.0.0",
+  "description": "fake API for county-rp",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -p 8000 --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
