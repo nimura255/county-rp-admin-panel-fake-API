@@ -1,9 +1,41 @@
 {
   "Profile": [
     {
-      "login": "Kekster",
-      "id": "2501"
-    }
+      "player": {
+        "id": 1,
+        "login": "Kekster"
+      },
+      "persons": [
+        {
+          "person": {
+            "id": 2,
+            "name": "CJ",
+            "playerId": 1,
+            "regDate": "2020-05-01T17:01:52",
+            "lastDate": "2020-05-01T17:01:52",
+            "adminLevelId": "moderator",
+            "factionId": "groove",
+            "groupId": 0,
+            "leader": true,
+            "rank": 0,
+            "position": [
+              0,
+              0,
+              0
+            ]
+          },
+          "faction": {
+            "id": "groove",
+            "name": "Groove Street Gang",
+            "ranks": [
+              "string"
+            ],
+            "type": 0
+          },
+          "vehicles": []
+        }
+      ]
+    }    
   ],
   "Group": [
     {
@@ -25,10 +57,88 @@
       "groupId": "group2"
     },
     {
+      "id": 2,
       "login": "Inna970",
       "password": "HelloKitty",
-      "groupId": "group1",
-      "id": 2
+      "groupId": "group1"
+    },
+    {
+      "id": 3,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 4,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 5,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 6,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 7,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 8,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 9,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 10,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 11,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 12,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 13,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 14,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
+    },
+    {
+      "id": 15,
+      "login": "Dummy",
+      "password": "Dummy",
+      "groupId": "dummy"
     }
   ],
   "Faction": [
